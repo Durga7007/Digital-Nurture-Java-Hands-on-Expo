@@ -1,7 +1,7 @@
 # 🚀 Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (FSE)
 
 <p align="center">
-  <h1 align="center">🚀 Digital Nurture 5.0</h1>
+  <h1 align="center"> Digital Nurture 5.0</h1>
   <p align="center">
     <b>Hands-on Assignments • Deep Skilling Program</b>
   </p>
@@ -68,14 +68,14 @@ A comprehensive collection of hands-on labs and coding exercises completed as pa
 - Logging using SLF4J & Lombok
 ---
 
-## 🔵 Week 2 – Spring Framework & Persistence Layer
+## 🔵 Week 2 – Spring Framework
 
 - Spring Core
 - Dependency Injection
 - Spring Boot Fundamentals
 - Maven Project Management
 - Spring Data JPA
-- Hibernate ORM
+- Hibernate 
 ---
 
 ## 🔵 Week 3 – RESTful Web Services
