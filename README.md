@@ -1,8 +1,7 @@
 # 🚀 Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (FSE)
 
 <p align="center">
-  <h1 align="center">🚀 Cognizant Digital Nurture 5.0</h1>
-  <h2 align="center">Java Full Stack Engineer (FSE) Deep Skilling</h2>
+  <h1 align="center">🚀 Digital Nurture 5.0</h1>
   <p align="center">
     <b>Hands-on Assignments • Deep Skilling Program</b>
   </p>
