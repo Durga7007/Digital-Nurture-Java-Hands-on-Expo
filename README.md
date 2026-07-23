@@ -1,10 +1,10 @@
-# 🚀 Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (FSE) & React Deep Skilling
+# 🚀 Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (FSE)
 
 <p align="center">
   <h1 align="center">🚀 Cognizant Digital Nurture 5.0</h1>
-  <h2 align="center">Java Full Stack Engineer (FSE) & React Deep Skilling</h2>
+  <h2 align="center">Java Full Stack Engineer (FSE) Deep Skilling</h2>
   <p align="center">
-    <b>Hands-on Assignments • Coding Exercises • Mini Projects • Deep Skilling Program</b>
+    <b>Hands-on Assignments • Deep Skilling Program</b>
   </p>
 </p>
 
@@ -12,7 +12,7 @@
 
 ## 📌 About
 
-A comprehensive collection of hands-on labs, coding exercises, and project implementations completed as part of the **Cognizant Digital Nurture 5.0 (DN 5.0)** Deep Skilling Program. This repository demonstrates practical experience in Java Full Stack Development, Spring Boot, React.js, Microservices, Cloud Fundamentals, DevOps, and Generative AI.
+A comprehensive collection of hands-on labs and coding exercises completed as part of the **Cognizant Digital Nurture 5.0 (DN 5.0)** Deep Skilling Program. This repository demonstrates practical experience in Java Full Stack Development, Spring Boot, React.js, Microservices, Cloud Fundamentals, and Generative AI.
 
 ---
 
@@ -42,7 +42,6 @@ A comprehensive collection of hands-on labs, coding exercises, and project imple
 - Git & GitHub
 - Docker
 - REST APIs
-- Postman
 - AWS Cloud Fundamentals
 
 ### 📖 Development Practices
@@ -68,7 +67,6 @@ A comprehensive collection of hands-on labs, coding exercises, and project imple
 - PL/SQL Programming
 - Test Driven Development (TDD)
 - Logging using SLF4J & Lombok
-
 ---
 
 ## 🔵 Week 2 – Spring Framework & Persistence Layer
@@ -79,36 +77,15 @@ A comprehensive collection of hands-on labs, coding exercises, and project imple
 - Maven Project Management
 - Spring Data JPA
 - Hibernate ORM
-- Database Connectivity
-
 ---
 
 ## 🔵 Week 3 – RESTful Web Services
 
 - REST API Development using Spring Boot 3
 - Request Mapping & CRUD Operations
-- Exception Handling
-- Validation
-- API Documentation
-- Spring Boot Actuator
-- Spring Security Basics
-
 ---
 
-## 🟣 Week 4 – Microservices & Code Quality
-
-- Microservices Architecture
-- Spring Cloud
-- Eureka Service Discovery
-- API Gateway
-- Circuit Breaker & Resilience
-- Inter-Service Communication
-- SonarQube Code Quality Analysis
-- Code Smells & Technical Debt
-
----
-
-## 🟠 Week 5 – React Fundamentals
+## 🟣 Week 4,5 – React Fundamentals
 
 - React Architecture
 - JSX
@@ -119,31 +96,24 @@ A comprehensive collection of hands-on labs, coding exercises, and project imple
 - Conditional Rendering
 - Lists & Keys
 - Component Lifecycle
+- React Hooks
 
 ---
 
-## 🟠 Week 6 – Advanced React Development
 
-- Forms & Form Validation
-- React Hooks
-- API Integration using Fetch & Axios
-- React Debugging Techniques
+## 🟠 Week 6 – GIT HOL
+
 - Git Branching Strategies
 - GitHub Workflows
-- CI/CD Fundamentals
-
 ---
 
 ## ☁️ Week 7 – Cloud, DevOps & Generative AI
 
 - Agile Software Development
 - DevOps Fundamentals
-- Docker Containerization
 - AWS Cloud Fundamentals
 - GitHub Copilot
 - Generative AI Fundamentals
-- AI-Assisted Software Development
-
 ---
 
 # 🎯 Key Learning Outcomes
@@ -156,4 +126,4 @@ A comprehensive collection of hands-on labs, coding exercises, and project imple
 - Improved code quality through SonarQube analysis.
 - Practiced version control using Git and GitHub workflows.
 - Gained practical exposure to Docker, AWS Cloud, Agile, and CI/CD concepts.
-- Leveraged Generative AI tools such as GitHub Copilot to enhance developer productivity.
+
